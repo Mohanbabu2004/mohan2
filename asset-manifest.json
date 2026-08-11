@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohan2.git/static/css/main.bea23e39.css",
+    "main.js": "/mohan2.git/static/js/main.a4abc595.js",
+    "index.html": "/mohan2.git/index.html",
+    "main.bea23e39.css.map": "/mohan2.git/static/css/main.bea23e39.css.map",
+    "main.a4abc595.js.map": "/mohan2.git/static/js/main.a4abc595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea23e39.css",
+    "static/js/main.a4abc595.js"
+  ]
+}
